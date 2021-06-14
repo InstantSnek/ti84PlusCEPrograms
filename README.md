@@ -1,4 +1,4 @@
-# ti84PreCalPrograms
+# ti84PlusCEPrograms
 I made some programs on my Ti84 so I thought I'd post them here
 
 Feel free to use these wherever and maybe check out the other things I have done.
