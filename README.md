@@ -23,4 +23,5 @@ RATNLPOS  Finds all possible rational zeros.
 
 
 Made by InstantSnek
-https://github.com/InstantSnek/ti84PreCalPrograms
+
+https://github.com/InstantSnek/ti84PlusCEPrograms
