@@ -1,9 +1,16 @@
 # ti84PlusCEPrograms
-I made some programs on my Ti84 so I thought I'd post them here
+BINCOEFF  Finds the coefficient of one item in a binomial expansion
+BINOMTHM  Does the binomial theorem to find coefficients of all tems ina a binomial expansion. May also be used to get a specific row of Pascal's Triangle.
+CMPLEXRT  Finds the N roots of a complex number Z = A + Bi
+CPMLXPWR  Finds the Nth power of a complex number Z = A + Bi, outputs both complex rectangular and polar coordinates.
+CMPLXTRG  Converts from rectangular/imaginary coordinates to polar coordinates, or a component vector to a polar vector.
+CONICROT  Graphs a rotated parabola as given by Ax^2 + Bxy + Cy^2 + Dx + Ey + F = G
 
-Feel free to use these wherever and maybe check out the other things I have done.
-
-Please don't pretend that you made this
+GETR      dependency for the problems, solves for magnitude/hypotenuse
+GETTHETA  Dependency, finds the angle on a unit circle from coordinates.
+POLTOCMP  Converts polar coordinates to rectangular coordinates, or converts vector from polar to component form, works in both radians and degrees.
+QUADRATIC Solves a quadratic equation, works with imaginary zeros.
+RATNLPOS  Finds all possible rational zeros.
 
 Made by InstantSnek
 https://github.com/InstantSnek/ti84PreCalPrograms
